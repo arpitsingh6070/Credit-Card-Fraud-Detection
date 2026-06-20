@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection — Predictive Modeling
+# 💳 Credit Card Fraud Detection - Predictive Modeling
 
 End-to-end fraud detection pipeline built on the classic European credit card transactions dataset. Goes beyond the usual Kaggle treatment — proper class-imbalance handling, multiple model comparisons, and an evaluation framework that's actually meant for fraud operations, not just a leaderboard score.
 
@@ -146,8 +146,6 @@ This notebook is solid as a portfolio piece, but a few things would genuinely st
 
 Built by **Arpit Singh** — M.Sc. Operations Research, University of Delhi. Currently exploring roles in data analytics, data science, and risk/fraud analytics.
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/arpit-singh-or)
-- 💻 [Portfolio](https://arpit-singh-or.github.io)
 
 Feel free to open an issue or reach out if you spot something that could be improved — always happy to discuss the approach or get feedback.
 
